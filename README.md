@@ -1,8 +1,7 @@
-# Demo2
+# Learning Java
 
-
-some text
+Started with Apna College java part 1
 
 ## new development
 
-1. open index.html in your browser
+1. Arrays
